@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(255, 250, 235);    
+}
+
+.name {
+    color: peru;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    display:table;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:cornsilk;
+    border: 5px outset wheat;
+    padding: 0.5em;
+}
+
+.major {
+    border: 5px outset rgba(247, 209, 129, 0.993);
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    font-size: 20px;
+    font-style:italic;
+    display: table;
+    border-spacing: 7px;
+}
+
+h3 {
+    border: 5px outset rgba(247, 209, 129, 0.993);
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    font-size: 20px;
+    font-style:italic;
+    display: table;
+    border-spacing: 7px;
+}
+
+p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: table;
+}
+
+li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}

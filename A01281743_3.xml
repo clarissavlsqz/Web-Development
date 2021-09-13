@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href ="A01281743_3.xsl"?>
+<inventory>
+    <books>
+        <book>
+            <name>The Ballad of Songbirds and Snakes</name>
+            <summary>
+            The prequel of the Hunger Games series tells the story
+            of a 18 year old Coriolanus Snow and his journey to obtain the Capitol's
+            power.  
+            </summary>
+            <year>2020</year>
+            <author>Suzanne Collins</author>
+            <characters>
+                <character>
+                    <name>Coriolanus Snow</name>
+                    <desc>
+                    Main character of the book. He comes from a prestige family, but both
+                    his parents died during war, leaving him with his cousin and grandma. He 
+                    is chosen to be one of the mentors for the 10th Hunger Games, due to being 
+                    poor and his desire to have power he becomes determined to make his tribute win.
+                    </desc>
+                </character>
+                    <character>
+                        <name>Lucy Gray Baird</name>
+                        <desc>
+                            She is the female tribute from District 12 and the mentee of Snow.
+                            She is part of a musical group and has an enchanted singing voice.
+                            Because of her beautiful voice she gains popularity among the Capitol's 
+                            citizens and becomes one of the favorite to win. 
+                        </desc>
+                    </character>
+                    <character>
+                        <name>Sejanus Plinth</name>
+                        <desc>
+                            He is a mentor in the 10th Hunger Games. He is originally from District 2
+                            but because of his father's job he moved the the Capitol. He is against all
+                            it represents the Hunger Games and is disgusted to participate on them. Even
+                            with that ideology he still mantains a friendship with Snow.
+                        </desc>
+                    </character>
+            </characters>
+        </book>
+    </books>
+
+
+    <tvshows>
+        <show>
+            <name>Sex Education</name>
+            <premise>
+                It follows Otis, an introvert teenage boy who knows a lot of sex. Maeve, a girl
+                from his school saw how he helped another teen with his sexuality problems, she
+                proposed Otis to open a business to help kids with their sexuality in exchange of money.
+                Ots accepts and the show revoles around the different problems teens have.
+            </premise>
+            <year>2019</year>
+            <creator>Laurie Nunn</creator>
+            <characters>
+                <character>
+                    <name>Otis Milburn</name>
+                    <desc>
+                        An awkward teenager who becomes a sex therapist in his High School. Has 
+                        a major crush on Maeve. 
+                    </desc>
+                </character>
+                <character>
+                    <name>Maeve Wiley</name>
+                    <desc>
+                        She is an intelligent and a social outcast. She lives alone in her caravan
+                        after all her family abandon her. She saw a way to get money by persuading Otis
+                        to open a sex therapy business. 
+                    </desc>
+                </character>
+                <character>
+                    <name>Eric Effiong</name>
+                    <desc>
+                        He is Otis' best friend, who is gay and is being bullied in school. He hasn't
+                        told his family about his sexuality because they are religious.
+                    </desc>
+                </character>
+            </characters>
+        </show>
+
+        <show>
+            <name>Glee</name>
+            <premise>
+                Follows a chours or glee club from McKinely High School. The glee club is considered
+                the lowest level of the social ladder in the school. So as they try to win Nationals, 
+                the teens and their teacher need to fight the constant neglection and attacks from the 
+                bullies and cheerleader coach.  
+            </premise>
+            <year>2009</year>
+            <creator>Ryan Murphy</creator>
+            <characters>
+                <character>
+                    <name>Will Schuester</name>
+                    <desc>
+                        He's the teacher or director of the glee club. When he was in high school he was
+                        part of the glee club so he wants to inspire the kids and get them win Nationals.  
+                    </desc>
+                </character>
+                <character>
+                    <name>Sue Sylvester</name>
+                    <desc>
+                        She is the cheerleader headcoach and wants to destory the glee club. Her main goal
+                        throughout the series is bring down the glee club and Will.
+                    </desc>
+                </character>
+                <character>
+                    <name>Rachel Berry</name>
+                    <desc>
+                        An ambitous, driven and talented girl who dreams of performing in Broadway. She is part
+                        of the glee club and always wants the spotlight constantly fighting for the solos.
+                    </desc>
+                </character>
+            </characters>
+        </show>
+
+        <show>
+            <name>Teen Titans</name>
+            <premise>
+                A group of five teenager superheroes who are entrusted to take care of the city's safety
+                from villians.
+            </premise>
+            <year>2003</year>
+            <creator>Glen Murakami and Sam Register</creator>
+            <characters>
+                <character>
+                    <name>Robin</name>
+                    <desc>
+                        He is the leader of the group. Although he doesn't have any superpower, he is a 
+                        pro for the martial arts and hand-to-hand combats.
+                    </desc>
+                </character>
+                <character>
+                    <name>Starfire</name>
+                    <desc>
+                        She is part of the Teen Titans. Her powers include: star bolts, star blats, laser-eyes, 
+                        super strength and flying among others.
+                    </desc>
+                </character>
+                <character>
+                    <name>Beast Boy</name>
+                    <desc>
+                        He is part of the Teen Titans. His main power is to transform or change into any animal.
+                        He is the jokester of the group.
+                    </desc>
+                </character>
+            </characters>
+        </show>
+    </tvshows>
+
+    <albums>
+        <album>
+            <name>Nothing Happens</name>
+            <desc>
+                Nothing Happens is the debut album of american band Wallows. The genre of the album is Indie Pop.  
+            </desc>
+            <year>2019</year>
+            <performer>Wallows</performer>
+            <songs>
+                <song>
+                    <name>Are you bored yet?</name>
+                    <desc>
+                        This song features female singer Clairo. The song talks about a partner being
+                        bored in the relationship they have been in a while, but have the fear that the others
+                        partner is also ready to move on.
+                    </desc>
+                </song>
+                <song>
+                    <name>Only Friend</name>
+                    <desc>
+                        This track is the first one of the album. It talks about losing innocence, and the move from
+                        teenage years into adulthood. Also it can be interpreted as losing the one person that means
+                        the most.
+                    </desc>
+                </song>
+                <song>
+                    <name>Do Not Wait</name>
+                    <desc>
+                        Is the final track of the album. Touches the theme of life. No matter what happens in life, or if you have
+                        the biggest problem, at some point in your life, nothing happend and there's so much life ahead; everything's okay.
+                    </desc>
+                </song>
+            </songs>
+        </album>
+    </albums>
+</inventory>
